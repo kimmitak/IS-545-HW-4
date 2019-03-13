@@ -9,7 +9,7 @@ function append(parent, el) {
 }
 
 const ul1 = document.createElement('ul')
-const url = 'http://jsonplaceholder.typicode.com/users'
+const url = 'https://jsonplaceholder.typicode.com/users'
 const ul = document.createElement('ul')
 
 var title1 = document.createElement("h2")
